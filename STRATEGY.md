@@ -15,3 +15,4 @@
 - [2026-02-02] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=I listed the best new AI tools for 2026 | Medium
 - [2026-02-02] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=I listed the best new AI tools for 2026 | Medium
 - [2026-02-02] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=I listed the best new AI tools for 2026 | Medium
+- [2026-02-02] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Best AI Agents for Mac in 2026 - TechJockey.com
