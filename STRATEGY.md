@@ -8,3 +8,4 @@
 - [2026-02-02] V13-Update: Intelligence=Local LLM Hardware Guide 2026: Ultimate Benchmarks to Stop Cloud APIs, Horizon=Top AI Tools for Mac in 2026 - Slashdot
 - [2026-02-02] V13-Update: Intelligence=Local LLM Hardware Guide 2026: Ultimate Benchmarks to Stop Cloud APIs, Horizon=I listed the best new AI tools for 2026 | Medium
 - [2026-02-02] V13-Update: Intelligence=Local LLM Hardware Guide 2026: Ultimate Benchmarks to Stop Cloud APIs, Horizon=Top 12 AI Tools for Mac in 2026 | ClickUp
+- [2026-02-02] V13-Update: Intelligence=Local LLM Hardware Guide 2026: Ultimate Benchmarks to Stop Cloud APIs, Horizon=Best AI Agents for Mac in 2026 - TechJockey.com
