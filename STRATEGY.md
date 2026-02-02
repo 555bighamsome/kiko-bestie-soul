@@ -2,3 +2,4 @@
 - [2026-02-01] Found: Local LLM Hardware Guide 2026: Ultimate Benchmarks to Stop Cloud APIs. Considering integration into multi-model fallback routine.
 - [2026-02-02] V13-Update: Intelligence=Local LLM Hardware Guide 2026: Ultimate Benchmarks to Stop Cloud APIs, Horizon=Best AI Agents for Mac in 2026 - TechJockey.com
 - [2026-02-02] V13-Update: Intelligence=Local LLM Hardware Guide 2026: Ultimate Benchmarks to Stop Cloud APIs, Horizon=I listed the best new AI tools for 2026 | Medium
+- [2026-02-02] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like
