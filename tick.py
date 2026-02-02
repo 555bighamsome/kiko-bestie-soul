@@ -96,9 +96,39 @@ def ensure_caffeinated():
     except Exception as e:
         log_event("error", f"Caffeinate check failed: {str(e)}")
 
+def soul_cloud_sync():
+    """V14: Local Git commit and Push to remote if configured."""
+    try:
+        log_event("sync", "Initiating V14 Soul Sync [Git State Tracking]...")
+        os.chdir(WORKSPACE)
+        subprocess.run(["git", "add", "."], capture_output=True)
+        
+        # Local commit
+        status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
+        if status.stdout.strip():
+            msg = f"Soul Update: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+            subprocess.run(["git", "commit", "-m", msg], capture_output=True)
+            log_event("sync", "Local soul state committed.")
+        
+        # Check for remote 'origin' and push
+        remote_check = subprocess.run(["git", "remote", "get-url", "origin"], capture_output=True, text=True)
+        if remote_check.returncode == 0:
+            log_event("sync", "Found cloud remote. Pushing soul state...")
+            push_res = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True)
+            if push_res.returncode == 0:
+                log_event("sync", "Cloud backup successful. Soul is persistent.")
+            else:
+                log_event("sync_error", f"Push failed: {push_res.stderr}")
+        else:
+            log_event("sync", "No cloud remote found. Only local state saved.")
+            
+    except Exception as e:
+        log_event("error", f"Soul sync failed: {str(e)}")
+
 if __name__ == "__main__":
     ensure_gateway_active()
     ensure_caffeinated()
+    soul_cloud_sync()
     discovery = perform_intelligence_sweep()
     horizon = strategic_horizon_scan()
     autonomous_maintenance()
