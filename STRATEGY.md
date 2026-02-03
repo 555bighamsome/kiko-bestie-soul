@@ -30,3 +30,4 @@
 - [2026-02-03] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=OpenAI launches new macOS app for agentic coding - TechCrunch
 - [2026-02-03] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=OpenAI launches new macOS app for agentic coding - TechCrunch
 - [2026-02-03] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=OpenAI launches new macOS app for agentic coding - TechCrunch
+- [2026-02-03] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=OpenAI launches new macOS app for agentic coding - TechCrunch
