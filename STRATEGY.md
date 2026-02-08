@@ -150,3 +150,4 @@
 - [2026-02-08] V13-Update: Intelligence=Exploring LLMs with MLX and the Neural Accelerators in the M5 GPU, Horizon=Xcode 26.3 unlocks the power of agentic coding - Apple
 - [2026-02-08] V13-Update: Intelligence=Exploring LLMs with MLX and the Neural Accelerators in the M5 GPU, Horizon=Introducing the Codex app | OpenAI
 - [2026-02-08] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Xcode 26.3 unlocks the power of agentic coding - Apple
+- [2026-02-08] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Xcode 26.3 unlocks the power of agentic coding - Apple
