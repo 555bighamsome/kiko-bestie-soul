@@ -198,3 +198,4 @@
 - [2026-02-10] V13-Update: Intelligence=Native LLM and MLLM Inference at Scale on Apple Silicon, Horizon=Introducing the Codex app - OpenAI
 - [2026-02-10] V13-Update: Intelligence=The Best Local LLMs To Run On Every Mac (Apple Silicon), Horizon=Xcode 26.3 unlocks the power of agentic coding - Apple
 - [2026-02-10] V13-Update: Intelligence=Native LLM and MLLM Inference at Scale on Apple Silicon, Horizon=Introducing the Codex app - OpenAI
+- [2026-02-10] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Introducing the Codex app - OpenAI
