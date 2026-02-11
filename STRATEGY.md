@@ -229,3 +229,4 @@
 - [2026-02-11] V13-Update: Intelligence=Full Local LLM Setup Guide: CPU vs GPU vs Apple Silicon, Horizon=Introducing the Codex app - OpenAI
 - [2026-02-11] V13-Update: Intelligence=Native LLM and MLLM Inference at Scale on Apple Silicon, Horizon=OpenAI Launches Codex - A New macOS App That Lets You Command Multiple ...
 - [2026-02-11] V13-Update: Intelligence=Native LLM and MLLM Inference at Scale on Apple Silicon, Horizon=Introducing the Codex app - OpenAI
+- [2026-02-11] V13-Update: Intelligence=Native LLM and MLLM Inference at Scale on Apple Silicon, Horizon=Introducing the Codex app - OpenAI
