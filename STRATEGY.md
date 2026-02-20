@@ -450,3 +450,4 @@
 - [2026-02-20] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Osaurus: The Revolutionary AI Runtime for macOS
 - [2026-02-20] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Apple Intelligence vs. Best AI Tools for Mac: 2026's Verdict
 - [2026-02-20] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Introducing the Codex app - OpenAI
+- [2026-02-20] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Introducing the Codex app - OpenAI
