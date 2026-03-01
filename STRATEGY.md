@@ -662,3 +662,4 @@
 - [2026-03-01] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Top 10 AI Agents for Desktop Automation 2026 (Mac & Windows)
 - [2026-03-01] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Top 10 AI Agents for Desktop Automation 2026 (Mac & Windows)
 - [2026-03-01] V13-Update: Intelligence=Training LLMs on Apple Silicon: M3 Ultra Performance Guide, Horizon=Top 10 AI Agents for Desktop Automation 2026 (Mac & Windows)
+- [2026-03-01] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=OpenAI Launches Codex App for macOS: Multi-Agent Command Center ...
