@@ -736,3 +736,4 @@
 - [2026-03-04] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-03-04] V13-Update: Intelligence=Running Local LLMs in 2026: Ollama, LM Studio, and Jan Compared, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-03-04] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
+- [2026-03-04] V13-Update: Intelligence=Training LLMs on Apple Silicon: M3 Ultra Performance Guide, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
