@@ -758,3 +758,4 @@
 - [2026-03-05] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-03-05] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-03-05] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
+- [2026-03-05] V13-Update: Intelligence=Local LLM Hardware Requirements: Mac vs PC 2026 - SitePoint, Horizon=Xcode 26.3 Lets AI Agents From Anthropic and OpenAI Build Apps ...
