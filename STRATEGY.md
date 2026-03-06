@@ -784,3 +784,4 @@
 - [2026-03-06] V13-Update: Intelligence=Training LLMs on Apple Silicon: M3 Ultra Performance Guide, Horizon=Action items for AI decision makers in 2026 - MIT Sloan
 - [2026-03-06] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=VoltAgent/awesome-openclaw-skills - GitHub
 - [2026-03-06] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
+- [2026-03-06] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
