@@ -780,3 +780,4 @@
 - [2026-03-06] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=The Best AI Apps for Mac in 2026: 21 AI Tools for Productivity and ...
 - [2026-03-06] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Introducing the Codex app - OpenAI
 - [2026-03-06] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Action items for AI decision makers in 2026 - MIT Sloan
+- [2026-03-06] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=Introducing the Codex app - OpenAI
