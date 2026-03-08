@@ -822,3 +822,4 @@
 - [2026-03-08] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=AI workflow automation tools for Mac worth your time in 2026
 - [2026-03-08] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=AI workflow automation tools for Mac worth your time in 2026
 - [2026-03-08] V13-Update: Intelligence=Local LLM Hardware Requirements: Mac vs PC 2026 - SitePoint, Horizon=AI workflow automation tools for Mac worth your time in 2026
+- [2026-03-08] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=AI workflow automation tools for Mac worth your time in 2026
