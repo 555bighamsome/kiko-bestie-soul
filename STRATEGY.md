@@ -1064,3 +1064,4 @@
 - [2026-03-18] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=AI workflow automation tools for Mac worth your time in 2026
 - [2026-03-18] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=AI workflow automation tools for Mac worth your time in 2026
 - [2026-03-18] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Best AI Agents for Mac in 2026 - TechJockey.com
+- [2026-03-18] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Xcode 26.3 unlocks the power of agentic coding - Apple
