@@ -1183,3 +1183,4 @@
 - [2026-03-24] V13-Update: Intelligence=Best Local LLMs to Run On Every Apple Silicon Mac in 2026, Horizon=GitHub - macOS26/Agent: A native macOS Agentic AI Agent via Claude API ...
 - [2026-03-29] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=7 Mac Apps for Developers Building AI Agents in 2026
 - [2026-03-29] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=7 Mac Apps for Developers Building AI Agents in 2026
+- [2026-03-29] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=7 Mac Apps for Developers Building AI Agents in 2026
