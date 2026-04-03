@@ -1244,3 +1244,4 @@
 - [2026-04-02] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=7 Mac Apps for Developers Building AI Agents in 2026
 - [2026-04-02] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-04-03] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=The Best AI Tools for Mac in 2026 - macoshunt.com
+- [2026-04-03] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=AI workflow automation tools for Mac worth your time in 2026
