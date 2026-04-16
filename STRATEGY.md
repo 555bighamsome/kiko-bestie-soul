@@ -1437,3 +1437,4 @@
 - [2026-04-16] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Awesome AI Agents 2026 - GitHub
 - [2026-04-16] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Awesome AI Agents 2026 - GitHub
 - [2026-04-16] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Awesome AI Agents 2026 - GitHub
+- [2026-04-16] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Awesome AI Agents 2026 - GitHub
