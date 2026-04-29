@@ -1641,3 +1641,4 @@
 - [2026-04-28] V13-Update: Intelligence=Mac Mini M4 for AI 2026 — LLM Benchmarks & Review, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-04-29] V13-Update: Intelligence=Mac Mini M4 for AI 2026 — LLM Benchmarks & Review, Horizon=Zijian-Ni/awesome-ai-agents-2026 - GitHub
 - [2026-04-29] V13-Update: Intelligence=Mac Mini M4 for AI 2026 — LLM Benchmarks & Review, Horizon=Zijian-Ni/awesome-ai-agents-2026 - GitHub
+- [2026-04-29] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
