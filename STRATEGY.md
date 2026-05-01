@@ -1679,3 +1679,4 @@
 - [2026-04-30] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-04-30] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-05-01] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
+- [2026-05-01] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
