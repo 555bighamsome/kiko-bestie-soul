@@ -1750,3 +1750,4 @@
 - [2026-05-04] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-05-04] V13-Update: Intelligence=Mac Mini M4 for AI 2026 — LLM Benchmarks & Review, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-05-04] V13-Update: Intelligence=Mac Mini M4 for AI 2026 — LLM Benchmarks & Review, Horizon=How Apple's AI Integration in macOS 2026 Will Change Workflow Automation
+- [2026-05-04] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
