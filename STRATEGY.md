@@ -1992,3 +1992,4 @@
 - [2026-05-17] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=How Apple's AI Integration in macOS 2026 Will Change Workflow Automation
 - [2026-05-17] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=How Apple's AI Integration in macOS 2026 Will Change Workflow Automation
 - [2026-05-17] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=How Apple's AI Integration in macOS 2026 Will Change Workflow Automation
+- [2026-05-17] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=How Apple's AI Integration in macOS 2026 Will Change Workflow Automation
