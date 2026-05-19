@@ -2039,3 +2039,4 @@
 - [2026-05-19] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Introducing the Codex app - OpenAI
 - [2026-05-19] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Introducing the Codex app - OpenAI
 - [2026-05-19] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Best AI Coding Agents for macOS in 2026: Claude Code, Codex, and Native ...
+- [2026-05-19] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Agent! for macOS 26.4.1 - GitHub
