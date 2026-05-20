@@ -2051,3 +2051,4 @@
 - [2026-05-19] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Best AI Coding Agents for macOS in 2026: Claude Code, Codex, and Native ...
 - [2026-05-19] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Agent! for macOS 26.4.1 or later - GitHub
 - [2026-05-20] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Agent! for macOS 26.4.1 or later - GitHub
+- [2026-05-20] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Agent! for macOS 26.4.1 or later - GitHub
