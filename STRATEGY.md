@@ -2106,3 +2106,4 @@
 - [2026-05-22] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Zijian-Ni/awesome-ai-agents-2026 - GitHub
 - [2026-05-22] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Introducing the Codex app - OpenAI
 - [2026-05-22] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=28 Best AI Apps & Software For Mac of 2026 (Free & Paid) - MacHow2
+- [2026-05-22] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=28 Best AI Apps & Software For Mac of 2026 (Free & Paid) - MacHow2
