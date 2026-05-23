@@ -2127,3 +2127,4 @@
 - [2026-05-23] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=28 Best AI Apps & Software For Mac of 2026 (Free & Paid) - MacHow2
 - [2026-05-23] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=caramaschiHG/awesome-ai-agents-2026 - GitHub
 - [2026-05-23] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=28 Best AI Apps & Software For Mac of 2026 (Free & Paid) - MacHow2
+- [2026-05-23] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=caramaschiHG/awesome-ai-agents-2026 - GitHub
