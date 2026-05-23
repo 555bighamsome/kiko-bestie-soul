@@ -2145,3 +2145,4 @@
 - [2026-05-23] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=caramaschiHG/awesome-ai-agents-2026 - GitHub
 - [2026-05-23] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=How macOS 27 Changes the Mac Experience in 2026 - Geeky Gadgets
 - [2026-05-23] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=How macOS 27 Changes the Mac Experience in 2026 - Geeky Gadgets
+- [2026-05-23] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=AI Agents in Automation (April 2026) | Automation Atlas
