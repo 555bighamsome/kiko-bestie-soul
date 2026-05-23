@@ -2144,3 +2144,4 @@
 - [2026-05-23] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=11 Best Mac Automation Tools in 2026 (Free & Paid) - crail.ai
 - [2026-05-23] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=caramaschiHG/awesome-ai-agents-2026 - GitHub
 - [2026-05-23] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=How macOS 27 Changes the Mac Experience in 2026 - Geeky Gadgets
+- [2026-05-23] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=How macOS 27 Changes the Mac Experience in 2026 - Geeky Gadgets
