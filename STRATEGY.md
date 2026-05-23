@@ -2123,3 +2123,4 @@
 - [2026-05-22] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=How macOS 27 Changes the Mac Experience in 2026 - Geeky Gadgets
 - [2026-05-22] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=How macOS 27 Changes the Mac Experience in 2026 - Geeky Gadgets
 - [2026-05-23] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=28 Best AI Apps & Software For Mac of 2026 (Free & Paid) - MacHow2
+- [2026-05-23] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Introducing the Codex app - OpenAI
