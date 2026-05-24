@@ -2155,3 +2155,4 @@
 - [2026-05-24] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=OpenAI Codex 2026 Update: New Mac AI Workflow & Collaboration Features
 - [2026-05-24] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=11 Best Mac Automation Tools in 2026 (Free & Paid) - crail.ai
 - [2026-05-24] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=11 Best Mac Automation Tools in 2026 (Free & Paid) - crail.ai
+- [2026-05-24] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Apple AI Workflow Integrations Leak: What's Coming to macOS and iOS in ...
