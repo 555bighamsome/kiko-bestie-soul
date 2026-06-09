@@ -2507,3 +2507,4 @@
 - [2026-06-09] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=11 Best Mac Automation Tools in 2026 (Free & Paid) - crail.ai
 - [2026-06-09] V13-Update: Intelligence=Apple Silicon LLMs: Run AI Models on Mac (MLX, 2026), Horizon=28 Best AI Apps & Software For Mac of 2026 (Free & Paid) - MacHow2
 - [2026-06-09] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Apple unveils next generation of Apple Intelligence, Siri AI, and more
+- [2026-06-09] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=caramaschiHG/awesome-ai-agents-2026 - GitHub
