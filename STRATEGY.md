@@ -2577,3 +2577,4 @@
 - [2026-06-12] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Apple WWDC 2026 AI announcements: Siri AI and more
 - [2026-06-12] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Apple unveils next generation of Apple Intelligence, Siri AI, and more
 - [2026-06-12] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Apple WWDC 2026 AI announcements: Siri AI and more
+- [2026-06-13] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Apple WWDC 2026 AI announcements: Siri AI and more
