@@ -2595,3 +2595,4 @@
 - [2026-06-13] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-06-13] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=11 Best Mac Automation Tools in 2026 (Free & Paid) - crail.ai
 - [2026-06-13] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Best AI Apps for Mac in 2026: 15 Tools That Actually Work
+- [2026-06-13] V13-Update: Intelligence=Apple Silicon LLMs: Run AI Models on Mac (MLX, 2026), Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
