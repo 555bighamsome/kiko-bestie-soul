@@ -2706,3 +2706,4 @@
 - [2026-06-18] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=AI Agents in Automation (April 2026) | Automation Atlas
 - [2026-06-18] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=OpenAI Codex 2026 Update: New Mac AI Workflow & Collaboration Features
 - [2026-06-18] V13-Update: Intelligence=Local Agentic AI on Mac With MLX: WWDC26 Guide [2026], Horizon=OpenAI Codex 2026 Update: New Mac AI Workflow & Collaboration Features
+- [2026-06-18] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
