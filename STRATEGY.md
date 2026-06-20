@@ -2738,3 +2738,4 @@
 - [2026-06-20] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=OpenAI Codex 2026 Update: New Mac AI Workflow & Collaboration Features
 - [2026-06-20] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=OpenAI Codex 2026 Update: New Mac AI Workflow & Collaboration Features
 - [2026-06-20] V13-Update: Intelligence=Local Agentic AI on Mac With MLX: WWDC26 Guide [2026], Horizon=OpenAI Codex 2026 Update: New Mac AI Workflow & Collaboration Features
+- [2026-06-20] V13-Update: Intelligence=Local Agentic AI on Mac With MLX: WWDC26 Guide [2026], Horizon=OpenAI Codex 2026 Update: New Mac AI Workflow & Collaboration Features
