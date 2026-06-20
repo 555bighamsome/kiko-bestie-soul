@@ -2733,3 +2733,4 @@
 - [2026-06-19] V13-Update: Intelligence=Local Agentic AI on Mac With MLX: WWDC26 Guide [2026], Horizon=Best AI Apps for Mac in 2026: 15 Tools That Actually Work
 - [2026-06-19] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=OpenAI Codex 2026 Update: New Mac AI Workflow & Collaboration Features
 - [2026-06-20] V13-Update: Intelligence=Local Agentic AI on Mac With MLX: WWDC26 Guide [2026], Horizon=Apple aids app development with new intelligence frameworks and ...
+- [2026-06-20] V13-Update: Intelligence=Local Agentic AI on Mac With MLX: WWDC26 Guide [2026], Horizon=OpenAI Codex 2026 Update: New Mac AI Workflow & Collaboration Features
