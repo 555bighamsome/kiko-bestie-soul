@@ -2777,3 +2777,4 @@
 - [2026-06-21] V13-Update: Intelligence=Run local agentic AI on the Mac using MLX - Apple Developer, Horizon=Best AI Apps for Mac in 2026: 15 Tools That Actually Work
 - [2026-06-21] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Best AI Apps for Mac in 2026: 15 Tools That Actually Work
 - [2026-06-21] V13-Update: Intelligence=Run local agentic AI on the Mac using MLX - Apple Developer, Horizon=Apple aids app development with new intelligence frameworks and ...
+- [2026-06-22] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Best AI Apps for Mac in 2026: 15 Tools That Actually Work
