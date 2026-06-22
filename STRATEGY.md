@@ -2790,3 +2790,4 @@
 - [2026-06-22] V13-Update: Intelligence=Apple Silicon LLMs: Run AI Models on Mac (MLX, 2026), Horizon=Best AI Apps for Mac in 2026: 15 Tools That Actually Work
 - [2026-06-22] V13-Update: Intelligence=Run local agentic AI on the Mac using MLX - Apple Developer, Horizon=11 Best Mac Automation Tools in 2026 (Free & Paid) - crail.ai
 - [2026-06-22] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=11 Best Mac Automation Tools in 2026 (Free & Paid) - crail.ai
+- [2026-06-22] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Apple aids app development with new intelligence frameworks and ...
