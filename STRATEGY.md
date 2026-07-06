@@ -3104,3 +3104,4 @@
 - [2026-07-06] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=The best AI agents in 2026 - Product Hunt
 - [2026-07-06] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=The best AI agents in 2026 - Product Hunt
 - [2026-07-06] V13-Update: Intelligence=Apple Silicon LLMs: Run AI Models on Mac (MLX, 2026), Horizon=The best AI agents in 2026 - Product Hunt
+- [2026-07-06] V13-Update: Intelligence=Apple Silicon LLMs: Run AI Models on Mac (MLX, 2026), Horizon=The best AI agents in 2026 - Product Hunt
