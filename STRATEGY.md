@@ -3164,3 +3164,4 @@
 - [2026-07-08] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Gemini Spark Mac: Google's AI Agent Automates Your Workflow
 - [2026-07-08] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=macOS is becoming a proving ground for AI agents
 - [2026-07-08] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=How macOS 27 Changes the Mac Experience in 2026 - Geeky Gadgets
+- [2026-07-08] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=caramaschiHG/awesome-ai-agents-2026 - GitHub
