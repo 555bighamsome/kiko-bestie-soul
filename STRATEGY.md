@@ -3161,3 +3161,4 @@
 - [2026-07-08] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=caramaschiHG/awesome-ai-agents-2026 - GitHub
 - [2026-07-08] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=macOS is becoming a proving ground for AI agents
 - [2026-07-08] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=macOS is becoming a proving ground for AI agents
+- [2026-07-08] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Gemini Spark Mac: Google's AI Agent Automates Your Workflow
