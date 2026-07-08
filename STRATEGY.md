@@ -3160,3 +3160,4 @@
 - [2026-07-08] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
 - [2026-07-08] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=caramaschiHG/awesome-ai-agents-2026 - GitHub
 - [2026-07-08] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=macOS is becoming a proving ground for AI agents
+- [2026-07-08] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=macOS is becoming a proving ground for AI agents
