@@ -3246,3 +3246,4 @@
 - [2026-07-12] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=Apple Intelligence on Mac in 2026: What It Does, Where It Stops, and ...
 - [2026-07-12] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Apple WWDC 2026 AI announcements: Siri AI and more
 - [2026-07-12] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=I Tested 16 Mac AI Assistants in 2026 — Here Are the 10 Worth Installing
+- [2026-07-12] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Gemini Spark Mac: Google's AI Agent Automates Your Workflow
