@@ -3238,3 +3238,4 @@
 - [2026-07-12] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=How macOS 27 Changes the Mac Experience in 2026 - Geeky Gadgets
 - [2026-07-12] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=How macOS 27 Changes the Mac Experience in 2026 - Geeky Gadgets
 - [2026-07-12] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=Gemini Spark Mac: Google's AI Agent Automates Your Workflow
+- [2026-07-12] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Apple Intelligence on Mac in 2026: What It Does, Where It Stops, and ...
