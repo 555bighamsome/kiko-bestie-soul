@@ -3279,3 +3279,4 @@
 - [2026-07-13] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Apple aids app development with new intelligence frameworks and ...
 - [2026-07-13] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=How macOS 27 Changes the Mac Experience in 2026 - Geeky Gadgets
 - [2026-07-13] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Apple WWDC 2026 AI announcements: Siri AI and more
+- [2026-07-13] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=Apple WWDC 2026 AI announcements: Siri AI and more
