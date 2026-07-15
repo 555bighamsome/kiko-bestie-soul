@@ -3321,3 +3321,4 @@
 - [2026-07-15] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=macOS is becoming a proving ground for AI agents
 - [2026-07-15] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Best AI Apps for Mac in 2026: 15 Tools That Actually Work
 - [2026-07-15] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=11 Best Mac Automation Tools in 2026 (Free & Paid) - crail.ai
+- [2026-07-15] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=Gemini Spark Mac: Google's AI Agent Automates Your Workflow
