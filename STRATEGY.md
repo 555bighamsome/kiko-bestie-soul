@@ -3512,3 +3512,4 @@
 - [2026-07-23] V13-Update: Intelligence=The Local LLM Stack 2026: Ollama, MLX, and the Battle for Mac Silicon, Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
 - [2026-07-23] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-07-23] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=I Tested 16 Mac AI Assistants in 2026 — Here Are the 10 Worth Installing
+- [2026-07-23] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
