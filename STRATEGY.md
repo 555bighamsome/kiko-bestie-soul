@@ -3517,3 +3517,4 @@
 - [2026-07-23] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-07-23] V13-Update: Intelligence=Steady State, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-07-23] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
+- [2026-07-23] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
