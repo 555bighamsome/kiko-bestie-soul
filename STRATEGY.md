@@ -3559,3 +3559,4 @@
 - [2026-07-25] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-07-25] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-07-25] V13-Update: Intelligence=How to Run Local LLMs on Apple Silicon Mac: The Complete 2026 Setup ..., Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
+- [2026-07-25] V13-Update: Intelligence=The Local LLM Hardware War: NVIDIA vs. Apple Silicon in 2026, Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
