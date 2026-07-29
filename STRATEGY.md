@@ -3648,3 +3648,4 @@
 - [2026-07-29] V13-Update: Intelligence=Local LLMs on Apple Silicon: The Ultimate 2026 Setup Guide, Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
 - [2026-07-29] V13-Update: Intelligence=Local LLMs on Apple Silicon: The Ultimate 2026 Setup Guide, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-07-29] V13-Update: Intelligence=Local LLMs on Apple Silicon: The Ultimate 2026 Setup Guide, Horizon=I Tested 16 Mac AI Assistants in 2026 — Here Are the 10 Worth Installing
+- [2026-07-29] V13-Update: Intelligence=Local LLMs on Apple Silicon: The Ultimate 2026 Setup Guide, Horizon=I Tested 16 Mac AI Assistants in 2026 — Here Are the 10 Worth Installing
