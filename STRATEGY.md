@@ -3674,3 +3674,4 @@
 - [2026-07-30] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=I Tested 16 Mac AI Assistants in 2026 — Here Are the 10 Worth Installing
 - [2026-07-30] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=I Tested 16 Mac AI Assistants in 2026 — Here Are the 10 Worth Installing
 - [2026-07-30] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=I Tested 16 Mac AI Assistants in 2026 — Here Are the 10 Worth Installing
+- [2026-07-30] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
