@@ -3690,3 +3690,4 @@
 - [2026-07-31] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=I Tested 16 Mac AI Assistants in 2026 — Here Are the 10 Worth Installing
 - [2026-07-31] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=I Tested 16 Mac AI Assistants in 2026 — Here Are the 10 Worth Installing
 - [2026-07-31] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=I Tested 16 Mac AI Assistants in 2026 — Here Are the 10 Worth Installing
+- [2026-07-31] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
