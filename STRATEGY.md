@@ -3741,3 +3741,4 @@
 - [2026-08-02] V13-Update: Intelligence=Local-LLM-Toolkit Launches to Optimize Apple Silicon Agent Pipelines, Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
 - [2026-08-02] V13-Update: Intelligence=Local-LLM-Toolkit Launches to Optimize Apple Silicon Agent Pipelines, Horizon=AI Agents in Automation (April 2026) | Automation Atlas
 - [2026-08-02] V13-Update: Intelligence=Local-LLM-Toolkit Launches to Optimize Apple Silicon Agent Pipelines, Horizon=AI Agents in Automation (April 2026) | Automation Atlas
+- [2026-08-02] V13-Update: Intelligence=Local Agentic AI on Mac With MLX: WWDC26 Guide [2026], Horizon=AI Agents in Automation (April 2026) | Automation Atlas
