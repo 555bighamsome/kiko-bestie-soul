@@ -3751,3 +3751,4 @@
 - [2026-08-03] V13-Update: Intelligence=Local-LLM-Toolkit Launches to Optimize Apple Silicon Agent Pipelines, Horizon=AI Agents in Automation (April 2026) | Automation Atlas
 - [2026-08-03] V13-Update: Intelligence=Local-LLM-Toolkit Launches to Optimize Apple Silicon Agent Pipelines, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-08-03] V13-Update: Intelligence=Local-LLM-Toolkit Launches to Optimize Apple Silicon Agent Pipelines, Horizon=AI Agents in Automation (April 2026) | Automation Atlas
+- [2026-08-03] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
