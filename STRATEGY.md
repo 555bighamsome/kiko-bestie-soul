@@ -3758,3 +3758,4 @@
 - [2026-08-03] V13-Update: Intelligence=Local Agentic AI on Mac With MLX: WWDC26 Guide [2026], Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-08-03] V13-Update: Intelligence=Local Agentic AI on Mac With MLX: WWDC26 Guide [2026], Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-08-03] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
+- [2026-08-03] V13-Update: Intelligence=Run AI on Mac: Apple Silicon Guide for 2026, Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
