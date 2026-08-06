@@ -3825,3 +3825,4 @@
 - [2026-08-06] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-08-06] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-08-06] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
+- [2026-08-06] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
