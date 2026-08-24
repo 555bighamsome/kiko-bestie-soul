@@ -4273,3 +4273,4 @@
 - [2026-08-24] V13-Update: Intelligence=Run AI on Mac: Apple Silicon Guide for 2026, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-08-24] V13-Update: Intelligence=Run AI on Mac: Apple Silicon Guide for 2026, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-08-24] V13-Update: Intelligence=Run AI on Mac: Apple Silicon Guide for 2026, Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
+- [2026-08-24] V13-Update: Intelligence=Run AI on Mac: Apple Silicon Guide for 2026, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
