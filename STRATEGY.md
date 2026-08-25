@@ -4282,3 +4282,4 @@
 - [2026-08-25] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-08-25] V13-Update: Intelligence=Run AI on Mac: Apple Silicon Guide for 2026, Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
 - [2026-08-25] V13-Update: Intelligence=Run AI on Mac: Apple Silicon Guide for 2026, Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
+- [2026-08-25] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
