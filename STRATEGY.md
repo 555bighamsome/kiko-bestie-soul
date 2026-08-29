@@ -4389,3 +4389,4 @@
 - [2026-08-29] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
 - [2026-08-29] V13-Update: Intelligence=Apple Silicon 2026: M6 to M5 Ultra for Local LLMs, Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
 - [2026-08-29] V13-Update: Intelligence=2026 Local LLM Hardware Guide: VRAM Tiers + GPUs, Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
+- [2026-08-29] V13-Update: Intelligence=Apple Silicon 2026: M6 to M5 Ultra for Local LLMs, Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
