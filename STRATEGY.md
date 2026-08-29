@@ -4374,3 +4374,4 @@
 - [2026-08-29] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-08-29] V13-Update: Intelligence=Run AI on Mac: Apple Silicon Guide for 2026, Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
 - [2026-08-29] V13-Update: Intelligence=Run AI on Mac: Apple Silicon Guide for 2026, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
+- [2026-08-29] V13-Update: Intelligence=Apple Silicon 2026: M6 to M5 Ultra for Local LLMs, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
