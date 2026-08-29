@@ -4392,3 +4392,4 @@
 - [2026-08-29] V13-Update: Intelligence=Apple Silicon 2026: M6 to M5 Ultra for Local LLMs, Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
 - [2026-08-29] V13-Update: Intelligence=Best Local LLM Models for Apple Silicon 2026 - Success Knocks, Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
 - [2026-08-29] V13-Update: Intelligence=Apple Silicon 2026: M6 to M5 Ultra for Local LLMs, Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
+- [2026-08-29] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
