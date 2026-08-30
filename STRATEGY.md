@@ -4404,3 +4404,4 @@
 - [2026-08-30] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
 - [2026-08-30] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
 - [2026-08-30] V13-Update: Intelligence=2026 Local LLM Hardware: VRAM Tiers + Best GPUs, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
+- [2026-08-30] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
