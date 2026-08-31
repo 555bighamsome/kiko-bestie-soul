@@ -4432,3 +4432,4 @@
 - [2026-08-31] V13-Update: Intelligence=Apple Silicon LLMs: Run AI Models on Mac (MLX, 2026), Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-08-31] V13-Update: Intelligence=Apple Silicon LLMs: Run AI Models on Mac (MLX, 2026), Horizon=Mac Automation Guide — from Quick Wins to Full AI Agents
 - [2026-08-31] V13-Update: Intelligence=Local Agentic AI on Mac With MLX: WWDC26 Guide [2026], Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
+- [2026-08-31] V13-Update: Intelligence=2026 Local LLM Hardware Guide: VRAM Tiers + GPUs, Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
