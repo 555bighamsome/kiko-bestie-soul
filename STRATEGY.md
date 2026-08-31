@@ -4423,3 +4423,4 @@
 - [2026-08-31] V13-Update: Intelligence=Mac Mini M4 for AI 2026 — LLM Benchmarks & Review, Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
 - [2026-08-31] V13-Update: Intelligence=Run Local Agentic AI on Mac With MLX [2026 Guide], Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
 - [2026-08-31] V13-Update: Intelligence=Run Local Agentic AI on Mac With MLX [2026 Guide], Horizon=GitHub - macOS26/Agent: Mac Agent for macOS 26: the agentic AI harness ...
+- [2026-08-31] V13-Update: Intelligence=Run Local Agentic AI on Mac With MLX [2026 Guide], Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
