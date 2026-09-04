@@ -4522,3 +4522,4 @@
 - [2026-09-04] V13-Update: Intelligence=Apple Silicon LLMs: Run AI Models on Mac (MLX, 2026), Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-04] V13-Update: Intelligence=Apple Silicon LLMs: Run AI Models on Mac (MLX, 2026), Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-04] V13-Update: Intelligence=Apple Silicon LLMs: Run AI Models on Mac (MLX, 2026), Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
+- [2026-09-04] V13-Update: Intelligence=Apple Silicon LLMs: Run AI Models on Mac (MLX, 2026), Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
