@@ -4548,3 +4548,4 @@
 - [2026-09-05] V13-Update: Intelligence=Apple Silicon LLMs: Run AI Models on Mac (MLX, 2026), Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-05] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-05] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
+- [2026-09-05] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
