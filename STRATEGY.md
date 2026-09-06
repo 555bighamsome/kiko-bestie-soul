@@ -4570,3 +4570,4 @@
 - [2026-09-06] V13-Update: Intelligence=Apple Silicon for local LLM inference: the complete 2026 guide, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-06] V13-Update: Intelligence=2026 Local LLM Hardware Guide: VRAM Tiers + GPUs, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-06] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026) | CanItRun, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
+- [2026-09-06] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
