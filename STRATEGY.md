@@ -4578,3 +4578,4 @@
 - [2026-09-06] V13-Update: Intelligence=Apple Silicon LLMs: Run AI Models on Mac (MLX, 2026), Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-06] V13-Update: Intelligence=Apple Silicon for LLM Inference 2026 - Sesame Disk, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-07] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 - daily.dev, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
+- [2026-09-07] V13-Update: Intelligence=Apple Silicon for local LLM inference: the complete 2026 guide, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
