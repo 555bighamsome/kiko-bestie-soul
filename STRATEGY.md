@@ -4579,3 +4579,4 @@
 - [2026-09-06] V13-Update: Intelligence=Apple Silicon for LLM Inference 2026 - Sesame Disk, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-07] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 - daily.dev, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-07] V13-Update: Intelligence=Apple Silicon for local LLM inference: the complete 2026 guide, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
+- [2026-09-07] V13-Update: Intelligence=2026 Local LLM Hardware Guide: VRAM Tiers + GPUs, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
