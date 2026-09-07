@@ -4596,3 +4596,4 @@
 - [2026-09-07] V13-Update: Intelligence=Running Local LLMs on macOS: Apple Silicon Optimization Guide | local ..., Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-07] V13-Update: Intelligence=Run AI on Mac: Apple Silicon Guide for 2026, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-07] V13-Update: Intelligence=Run AI on Mac: Apple Silicon Guide for 2026, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
+- [2026-09-07] V13-Update: Intelligence=Apple Silicon 2026: M6 to M5 Ultra for Local LLMs, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
