@@ -4621,3 +4621,4 @@
 - [2026-09-08] V13-Update: Intelligence=2026 Local LLM Hardware Guide: VRAM Tiers + GPUs, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-08] V13-Update: Intelligence=Apple Silicon 2026: M6 to M5 Ultra for Local LLMs, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-08] V13-Update: Intelligence=2026 Local LLM Hardware Guide: VRAM Tiers + GPUs, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
+- [2026-09-08] V13-Update: Intelligence=Apple Silicon 2026: M6 to M5 Ultra for Local LLMs, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
