@@ -4680,3 +4680,4 @@
 - [2026-09-11] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-09-11] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=rplotka/macos-automation-guide-2026 - GitHub
 - [2026-09-11] V13-Update: Intelligence=Local LLMs on Apple Silicon: A Guide to llama.cpp Optimization, Horizon=Best macOS Automation Tools in 2026: Shortcuts, Scripts, and Workflows
+- [2026-09-11] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=rplotka/macos-automation-guide-2026 - GitHub
