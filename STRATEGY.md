@@ -4752,3 +4752,4 @@
 - [2026-09-14] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 - daily.dev, Horizon=rplotka/macos-automation-guide-2026 - GitHub
 - [2026-09-14] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-09-14] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 - daily.dev, Horizon=rplotka/macos-automation-guide-2026 - GitHub
+- [2026-09-14] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 - daily.dev, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
