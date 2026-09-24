@@ -4984,3 +4984,4 @@
 - [2026-09-24] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-24] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-09-24] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
+- [2026-09-24] V13-Update: Intelligence=Mac Mini M4 for AI 2026 — LLM Benchmarks & Review, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
