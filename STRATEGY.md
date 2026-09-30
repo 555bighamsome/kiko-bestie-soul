@@ -5141,3 +5141,4 @@
 - [2026-09-30] V13-Update: Intelligence=The Local LLM Power User's Guide to llama.cpp on Apple Silicon, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-09-30] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-09-30] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
+- [2026-09-30] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
