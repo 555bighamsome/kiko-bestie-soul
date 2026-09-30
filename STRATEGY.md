@@ -5138,3 +5138,4 @@
 - [2026-09-30] V13-Update: Intelligence=2026 Local LLM Hardware Guide: VRAM Tiers + GPUs, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-09-30] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=Apple aids app development with new intelligence frameworks and ...
 - [2026-09-30] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=rplotka/macos-automation-guide-2026 - GitHub
+- [2026-09-30] V13-Update: Intelligence=The Local LLM Power User's Guide to llama.cpp on Apple Silicon, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
