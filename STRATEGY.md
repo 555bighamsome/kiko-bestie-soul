@@ -5132,3 +5132,4 @@
 - [2026-09-30] V13-Update: Intelligence=2026 Local LLM Hardware Guide: VRAM Tiers + GPUs, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-09-30] V13-Update: Intelligence=2026 Local LLM Hardware Guide: VRAM Tiers + GPUs, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-09-30] V13-Update: Intelligence=2026 Local LLM Hardware Guide: VRAM Tiers + GPUs, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
+- [2026-09-30] V13-Update: Intelligence=The Hardware Edge: Optimizing LLM Inference on Apple Silicon with llama.cpp, Horizon=Mac Automation Guide — from Quick Wins to Full AI Agents
