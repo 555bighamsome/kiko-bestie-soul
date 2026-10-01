@@ -5160,3 +5160,4 @@
 - [2026-10-01] V13-Update: Intelligence=The Local LLM Power User's Guide to llama.cpp on Apple Silicon, Horizon=rplotka/macos-automation-guide-2026 - GitHub
 - [2026-10-01] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-01] V13-Update: Intelligence=The Local LLM Power User's Guide to llama.cpp on Apple Silicon, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
+- [2026-10-01] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
