@@ -5148,3 +5148,4 @@
 - [2026-10-01] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Mac Tools for AI Agent Builders: A Practical 2026 Workflow Architecture
 - [2026-10-01] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-01] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
+- [2026-10-01] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Mac Tools for AI Agent Builders: A Practical 2026 Workflow Architecture
