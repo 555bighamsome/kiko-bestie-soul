@@ -5169,3 +5169,4 @@
 - [2026-10-02] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-02] V13-Update: Intelligence=The Local LLM Power User's Guide to llama.cpp on Apple Silicon, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-02] V13-Update: Intelligence=2026 Local LLM Hardware Guide: VRAM Tiers + GPUs, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
+- [2026-10-02] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
