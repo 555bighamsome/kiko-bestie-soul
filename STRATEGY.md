@@ -5304,3 +5304,4 @@
 - [2026-10-07] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-07] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 - daily.dev, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-10-07] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 - daily.dev, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
+- [2026-10-07] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026), Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
