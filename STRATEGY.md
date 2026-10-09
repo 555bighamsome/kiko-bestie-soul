@@ -5336,3 +5336,4 @@
 - [2026-10-08] V13-Update: Intelligence=OMLX: High-Performance LLM Inference on Apple Silicon, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-09] V13-Update: Intelligence=OMLX: High-Performance LLM Inference on Apple Silicon, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-09] V13-Update: Intelligence=OMLX: High-Performance LLM Inference on Apple Silicon, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
+- [2026-10-09] V13-Update: Intelligence=OMLX: High-Performance LLM Inference on Apple Silicon, Horizon=Best AI Agents for Mac of 2026 - Reviews & Comparison - SourceForge
