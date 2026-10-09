@@ -5354,3 +5354,4 @@
 - [2026-10-09] V13-Update: Intelligence=OMLX: High-Performance LLM Inference on Apple Silicon, Horizon=The State of AI Agent Skills 2026 - Skillselion
 - [2026-10-09] V13-Update: Intelligence=Best local LLM for Mac Apple Silicon 2026 | BestLLMfor, Horizon=7 Native AI Agents to Automate Your macOS Desktop Without the Cloud ...
 - [2026-10-09] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
+- [2026-10-09] V13-Update: Intelligence=OMLX: High-Performance LLM Inference on Apple Silicon, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
