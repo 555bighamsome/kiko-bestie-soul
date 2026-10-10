@@ -5375,3 +5375,4 @@
 - [2026-10-10] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=7 Native AI Agents to Automate Your macOS Desktop Without the Cloud ...
 - [2026-10-10] V13-Update: Intelligence=OMLX: High-Performance LLM Inference on Apple Silicon, Horizon=Best AI Agents for Mac of 2026 - Reviews & Comparison - SourceForge
 - [2026-10-10] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
+- [2026-10-10] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026), Horizon=Best AI Agents for Mac of 2026 - Reviews & Comparison - SourceForge
