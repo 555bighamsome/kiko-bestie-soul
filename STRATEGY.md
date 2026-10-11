@@ -5403,3 +5403,4 @@
 - [2026-10-11] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-10-11] V13-Update: Intelligence=Mac AI Performance Guide 2026: M4 Pro vs M4 Max vs M4 Ultra for Local ..., Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-10-11] V13-Update: Intelligence=Best local LLM for Mac Apple Silicon 2026 | BestLLMfor, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
+- [2026-10-11] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
