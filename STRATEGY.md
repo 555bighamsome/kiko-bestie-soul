@@ -5394,3 +5394,4 @@
 - [2026-10-11] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026), Horizon=Agent! for macOS 26.4+ | MCP Servers · LobeHub
 - [2026-10-11] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026), Horizon=Agent! for macOS 26.4+ | MCP Servers · LobeHub
 - [2026-10-11] V13-Update: Intelligence=Mac AI Performance Guide 2026: M4 Pro vs M4 Max vs M4 Ultra for Local ..., Horizon=Best AI Agents for Mac of 2026 - Reviews & Comparison - SourceForge
+- [2026-10-11] V13-Update: Intelligence=Mac AI Performance Guide 2026: M4 Pro vs M4 Max vs M4 Ultra for Local ..., Horizon=Agent! for macOS 26.4+ | MCP Servers · LobeHub
