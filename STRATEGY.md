@@ -5387,3 +5387,4 @@
 - [2026-10-11] V13-Update: Intelligence=Best local LLM for Mac Apple Silicon 2026 | BestLLMfor, Horizon=Agent! for macOS 26.4+ | MCP Servers · LobeHub
 - [2026-10-11] V13-Update: Intelligence=Mac AI Performance Guide 2026: M4 Pro vs M4 Max vs M4 Ultra for Local ..., Horizon=Agent! for macOS 26.4+ | MCP Servers · LobeHub
 - [2026-10-11] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide - SitePoint, Horizon=Agent! for macOS 26.4+ | MCP Servers · LobeHub
+- [2026-10-11] V13-Update: Intelligence=Apple Silicon LLMs 2026: MLX + What Runs on 8-512 GB, Horizon=Agent! for macOS 26.4+ | MCP Servers · LobeHub
