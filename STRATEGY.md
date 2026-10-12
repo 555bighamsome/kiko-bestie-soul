@@ -5421,3 +5421,4 @@
 - [2026-10-12] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-12] V13-Update: Intelligence=On-Device AI Inference 2026: Apple Silicon, NVIDIA & AMD Guide, Horizon=7 Native AI Agents to Automate Your macOS Desktop Without the Cloud ...
 - [2026-10-12] V13-Update: Intelligence=Mac AI Performance Guide 2026: M4 Pro vs M4 Max vs M4 Ultra for Local ..., Horizon=Best AI Agents for Mac of 2026 - Reviews & Comparison - SourceForge
+- [2026-10-12] V13-Update: Intelligence=On-Device AI Inference 2026: Apple Silicon, NVIDIA & AMD Guide, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
