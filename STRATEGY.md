@@ -5507,3 +5507,4 @@
 - [2026-10-16] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Best Mac Automation Tools in 2026, Compared | Buttons
 - [2026-10-16] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-16] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
+- [2026-10-16] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026), Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
