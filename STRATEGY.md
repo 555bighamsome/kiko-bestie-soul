@@ -5619,3 +5619,4 @@
 - [2026-10-20] V13-Update: Intelligence=Your Local LLM Workflow in 2026: From Model Management to Production, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-20] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-20] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
+- [2026-10-20] V13-Update: Intelligence=The Hardware Edge: Optimizing Apple Silicon for Maximum LLM…, Horizon=Steady State
