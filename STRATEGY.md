@@ -5647,3 +5647,4 @@
 - [2026-10-21] V13-Update: Intelligence=Local LLM on Apple Silicon 2026: Metal, MLX, and llama.cpp, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-22] V13-Update: Intelligence=Local LLM on Apple Silicon 2026: Metal, MLX, and llama.cpp, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-22] V13-Update: Intelligence=Local LLM on Apple Silicon 2026: Metal, MLX, and llama.cpp, Horizon=Best Mac Automation Tools in 2026, Compared | Buttons
+- [2026-10-22] V13-Update: Intelligence=Local LLM on Apple Silicon 2026: Metal, MLX, and llama.cpp, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
