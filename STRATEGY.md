@@ -5710,3 +5710,4 @@
 - [2026-10-24] V13-Update: Intelligence=Apple Silicon 2026: M6 to M5 Ultra for Local LLMs, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-24] V13-Update: Intelligence=The Hardware Edge: Optimizing Apple Silicon for Maximum LLM…, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-24] V13-Update: Intelligence=The Hardware Edge: Optimizing Apple Silicon for Maximum LLM…, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
+- [2026-10-24] V13-Update: Intelligence=2026 Local LLM Hardware Guide: VRAM Tiers + GPUs, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
