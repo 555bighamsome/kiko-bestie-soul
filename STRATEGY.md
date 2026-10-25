@@ -5717,3 +5717,4 @@
 - [2026-10-24] V13-Update: Intelligence=The Hardware Edge: Optimizing Apple Silicon for Maximum LLM…, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-24] V13-Update: Intelligence=Running Local LLMs on macOS: Apple Silicon Optimization Guide, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
 - [2026-10-24] V13-Update: Intelligence=apple-silicon-llm-guide - GitHub, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
+- [2026-10-25] V13-Update: Intelligence=The Hardware Edge: Optimizing Apple Silicon for Maximum LLM…, Horizon=Open-Source AI Agents You Can Run Locally on Your Mac in 2026
