@@ -5917,3 +5917,4 @@
 - [2026-11-02] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-11-02] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-11-02] V13-Update: Intelligence=[2610.31479] Evaluating the Applicability of LLM Inference ..., Horizon=Best Mac Automation Tools in 2026, Compared | Buttons
+- [2026-11-02] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Best Mac Automation Tools in 2026, Compared | Buttons
