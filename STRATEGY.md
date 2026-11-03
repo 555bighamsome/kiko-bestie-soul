@@ -5941,3 +5941,4 @@
 - [2026-11-03] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=120+ Agentic AI Tools Mapped Across 11 Categories [2026]
 - [2026-11-03] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Agent! for macOS 26.4+ | MCP Servers · LobeHub
 - [2026-11-03] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 | M1 M2 M3 Guide, Horizon=Best Mac Automation Tools in 2026, Compared | Buttons
+- [2026-11-03] V13-Update: Intelligence=Apple Silicon 2026: M6 to M5 Ultra for Local LLMs, Horizon=Best AI Agents in 2026: 14 Tools for Autonomous Work
