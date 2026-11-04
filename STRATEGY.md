@@ -5960,3 +5960,4 @@
 - [2026-11-04] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-11-04] V13-Update: Intelligence=[2610.31479] Evaluating the Applicability of LLM Inference ..., Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-11-04] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
+- [2026-11-04] V13-Update: Intelligence=Apple Silicon 2026: M6 to M5 Ultra for Local LLMs, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
