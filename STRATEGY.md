@@ -5969,3 +5969,4 @@
 - [2026-11-04] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=Best Mac Automation Tools in 2026, Compared | Buttons
 - [2026-11-04] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
 - [2026-11-04] V13-Update: Intelligence=Running Local LLMs on macOS: Apple Silicon Optimization Guide, Horizon=Agent! for macOS 26.4+ | MCP Servers · LobeHub
+- [2026-11-04] V13-Update: Intelligence=[2610.31479] Evaluating the Applicability of LLM Inference ..., Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
