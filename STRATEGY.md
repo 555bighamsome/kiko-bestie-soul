@@ -5983,3 +5983,4 @@
 - [2026-11-04] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=Agent! for macOS 26.4+ | MCP Servers · LobeHub
 - [2026-11-05] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=Best AI Agents in 2026: 14 Tools for Autonomous Work
 - [2026-11-05] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=Best Mac Automation Tools in 2026, Compared | Buttons
+- [2026-11-05] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=Best AI Agents in 2026: 14 Tools for Autonomous Work
