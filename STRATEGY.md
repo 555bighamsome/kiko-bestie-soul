@@ -6094,3 +6094,4 @@
 - [2026-11-10] V13-Update: Intelligence=Local LLMs on Apple Silicon 2026: M5 Pro, Max, Ultra, M6, Horizon=Best Mac Automation Tools in 2026, Compared | Buttons
 - [2026-11-10] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=Best Mac Automation Tools in 2026, Compared | Buttons
 - [2026-11-10] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026), Horizon=Best Mac Automation Tools in 2026, Compared | Buttons
+- [2026-11-10] V13-Update: Intelligence=Run AI on Mac: Apple Silicon M5 & Ollama Guide (2026), Horizon=Apple introduces new AI frameworks and agentic coding tools for ...
