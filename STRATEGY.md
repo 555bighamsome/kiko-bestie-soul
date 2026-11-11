@@ -6119,3 +6119,4 @@
 - [2026-11-11] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026), Horizon=Best AI Agents in 2026: 14 Tools for Autonomous Work
 - [2026-11-11] V13-Update: Intelligence=Apple Silicon for LLM Inference 2026 - Sesame Disk, Horizon=Best AI Automation Tools in 2026: Ranked & Tested
 - [2026-11-11] V13-Update: Intelligence=Apple Silicon for LLM Inference 2026 - Sesame Disk, Horizon=Best AI Coding Agents in 2026: 14 Tools Ranked by Autonomy and Fit
+- [2026-11-11] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Best AI Automation Tools in 2026: Ranked & Tested
