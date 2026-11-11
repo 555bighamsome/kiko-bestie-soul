@@ -6105,3 +6105,4 @@
 - [2026-11-10] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026), Horizon=Best Mac Automation Tools in 2026, Compared | Buttons
 - [2026-11-10] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026), Horizon=Best AI Automation Tools in 2026: Ranked & Tested
 - [2026-11-11] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026), Horizon=Apple introduces new AI frameworks and agentic coding tools for ...
+- [2026-11-11] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Best Mac Automation Tools in 2026, Compared | Buttons
