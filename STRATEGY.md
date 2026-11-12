@@ -6136,3 +6136,4 @@
 - [2026-11-12] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide, Horizon=The best new AI agents in 2026 - Product Hunt
 - [2026-11-12] V13-Update: Intelligence=MLX on Mac: Run Local LLMs on Apple Silicon | explainx.ai Blog, Horizon=Best AI Coding Agents in 2026: 14 Tools Ranked by Autonomy and Fit
 - [2026-11-12] V13-Update: Intelligence=MLX on Mac: Run Local LLMs on Apple Silicon | explainx.ai Blog, Horizon=Best AI Coding Agents in 2026: 14 Tools Ranked by Autonomy and Fit
+- [2026-11-12] V13-Update: Intelligence=[2610.31479] Evaluating the Applicability of LLM Inference ..., Horizon=Best AI Coding Agents in 2026: 14 Tools Ranked by Autonomy and Fit
