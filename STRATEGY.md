@@ -6167,3 +6167,4 @@
 - [2026-11-13] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Computer-Use AI Agents in 2026: Tools, APIs and Pricing
 - [2026-11-13] V13-Update: Intelligence=MLX on Mac: Run Local LLMs on Apple Silicon | explainx.ai Blog, Horizon=Best AI Coding Agents in 2026: 14 Tools Ranked by Autonomy and Fit
 - [2026-11-13] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Best AI Coding Agents in 2026: 14 Tools Ranked by Autonomy and Fit
+- [2026-11-13] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Best Local AI Agents for Mac in 2026 (Top 8 Ranked)
