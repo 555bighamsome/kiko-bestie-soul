@@ -6410,3 +6410,4 @@
 - [2026-11-25] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Best Local AI Agents for Mac in 2026 (Top 8 Ranked)
 - [2026-11-25] V13-Update: Intelligence=How to Run Local LLM Apple Silicon Mac (M1/M2/M3/M4 Guide), Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-11-25] V13-Update: Intelligence=Towards Training Private LLMs: Exploring Fine-Tuning Language Models on ..., Horizon=Best AI & Automation Apps for Mac (2026) | MacWorthy
+- [2026-11-25] V13-Update: Intelligence=Local LLMs on Apple Silicon 2026: M5 Pro, Max, Ultra, M6, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
