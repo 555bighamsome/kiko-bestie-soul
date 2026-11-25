@@ -6402,3 +6402,4 @@
 - [2026-11-25] V13-Update: Intelligence=Apple Silicon LLM Inference Optimization: The Complete Guide to Maximum ..., Horizon=macos-tools - AI Agent skill
 - [2026-11-25] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Best Local AI Agents for Mac in 2026 (Top 8 Ranked)
 - [2026-11-25] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Best Local AI Agents for Mac in 2026 (Top 8 Ranked)
+- [2026-11-25] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=RPA for Mac: 12+ RPA tools That Can Run on Mac
