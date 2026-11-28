@@ -6433,3 +6433,4 @@
 - [2026-11-27] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 - daily.dev, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-11-27] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=Best Open Source Mac AI Agents 2026 - SourceForge
 - [2026-11-27] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
+- [2026-11-27] V13-Update: Intelligence=Local LLMs on Apple Silicon Mac 2026 | M5 Setup Guide - SitePoint, Horizon=10 Best AI Assistants for Mac in 2026 (Tested)
