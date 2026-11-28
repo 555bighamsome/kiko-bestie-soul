@@ -6448,3 +6448,4 @@
 - [2026-11-28] V13-Update: Intelligence=Local LLMs Apple Silicon Mac 2026 - daily.dev, Horizon=10 Best AI Software for Mac in 2026 - The Mac Observer
 - [2026-11-28] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026), Horizon=Best Open Source Mac AI Agents 2026 - SourceForge
 - [2026-11-28] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026), Horizon=Best Open Source Mac AI Agents 2026 - SourceForge
+- [2026-11-28] V13-Update: Intelligence=Apple Silicon for LLMs: M1 to M6 Complete Guide (2026), Horizon=Best Open Source Mac AI Agents 2026 - SourceForge
